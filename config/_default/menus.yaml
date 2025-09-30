@@ -1,0 +1,64 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 34e6bc34-9167-f97d-f5e1-8f09fc24ef16
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e974bd1a-9897-6b46-896a-13de54082f58
+  name: Readings, Lectures & Tutorials
+  pageRef: /pages/readings-lectures-tutorials/
+  weight: 20
+- identifier: b8640e7f-5645-ec2f-4213-a084178fd24b
+  name: Assignments and Final Project
+  pageRef: /pages/assignments-and-projects/
+  weight: 30
+- identifier: 8e4ca487-a319-4264-15bf-db3ebc623ff8
+  name: 'Assignment 1: Soft Circuit'
+  pageRef: /pages/assignments-and-projects/soft-circuit/
+  parent: b8640e7f-5645-ec2f-4213-a084178fd24b
+  weight: 40
+- identifier: e9c00279-5fc8-10f8-7807-0fa3f98a1cc6
+  name: 'Assignment 2: "Hello World" Fabric PCBs, Part 1'
+  pageRef: /pages/assignments-and-projects/fabric-pcbs-part-1
+  parent: b8640e7f-5645-ec2f-4213-a084178fd24b
+  weight: 50
+- identifier: 65b98bff-a576-b7e8-689b-c6366c1e63d3
+  name: 'Assignment 3: "Hello World" Fabric PCBs, Part 2'
+  pageRef: /pages/assignments-and-projects/fabric-pcbs-part-2/
+  parent: b8640e7f-5645-ec2f-4213-a084178fd24b
+  weight: 60
+- identifier: 89220475-f26b-95a1-2be5-4f3479ca391a
+  name: 'Assignment 4: Yarn'
+  pageRef: /pages/assignments-and-projects/yarn/
+  parent: b8640e7f-5645-ec2f-4213-a084178fd24b
+  weight: 70
+- identifier: d8eb9e0f-dc2e-dea8-e428-1018fad1877d
+  name: 'Assignment 5: Nonwoven'
+  pageRef: /pages/assignments-and-projects/nonwoven/
+  parent: b8640e7f-5645-ec2f-4213-a084178fd24b
+  weight: 80
+- identifier: 202ac8dd-885c-dd02-7531-38f0e50235da
+  name: 'Assignment 6: Networked Wearable'
+  pageRef: /pages/assignments-and-projects/networked-wearable/
+  parent: b8640e7f-5645-ec2f-4213-a084178fd24b
+  weight: 90
+- identifier: 24c3c5c9-6b0d-bc34-1b1f-f3a5e036782a
+  name: 'Assignment 7: Final Project Proposal'
+  pageRef: /pages/assignments-and-projects/final-project-proposal/
+  parent: b8640e7f-5645-ec2f-4213-a084178fd24b
+  weight: 100
+- identifier: e9d32dff-38c5-9774-4bfd-b9f6ed53cab3
+  name: 'Assignment 8: Knit, Woven, Embroidery, or Print'
+  pageRef: /pages/assignments-and-projects/knit-woven-embroidery-or-print/
+  parent: b8640e7f-5645-ec2f-4213-a084178fd24b
+  weight: 110
+- identifier: b1811d9e-a2ef-f6c0-c98c-0155bac8d761
+  name: 'Assignment 9: Final Project'
+  pageRef: /pages/assignments-and-projects/final-project/
+  parent: b8640e7f-5645-ec2f-4213-a084178fd24b
+  weight: 120
+- identifier: dc4ca8a0-88ea-05f8-7702-b04c4207299f
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 130
